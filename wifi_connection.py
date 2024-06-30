@@ -147,5 +147,5 @@ if __name__ == "__main__":
         counter += 1
         print(f"Uploading Values: {counter}")
         ifttt_req()
-        time.sleep(1)
+        time.sleep(10)
             
